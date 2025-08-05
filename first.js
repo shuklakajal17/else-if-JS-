@@ -15,4 +15,5 @@ if (score >=90 && score <= 100) {
     grade = "F"
 }
 
+
 console.log("according to your score, your grade was :", grade) 
