@@ -17,3 +17,4 @@ if (score >=90 && score <= 100) {
 
 
 console.log("according to your score, your grade was :", grade) 
+
